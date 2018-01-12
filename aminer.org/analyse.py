@@ -4,7 +4,7 @@ import json
 import csv
 
 #TODO keywords
-keywords = [' Neural Network ', ' AI ', ' deep learning ', ' knn ']
+keywords = [' Neural Network ', ' AI ', ' deep learning ', ' ann ']
 
 f = open('dblp.csv','w')
 #seek to begining to overwrite if file already exists
